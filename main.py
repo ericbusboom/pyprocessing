@@ -15,7 +15,7 @@ def draw():
     fill('cyan')  # Set the fill color for the sky to cyan
     rect(0, 0, 400, 250)  # Draw a rectangle for the sky with these values for x, y, width, height
 
-    fill('lightgreen')  # Set the fill colour for the grass to light green
+    fill('darkgreen')  # Set the fill colour for the grass to light green
     rect(0, 250, 400, 150)  # Draw a rectangle for the grass with these values for x, y, width, height
 
     fill('sienna')  # Brown colour
